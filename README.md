@@ -45,8 +45,9 @@ Web & Graphics
 Sources 
 ===============================================================================
 Stock trading papers
-* http://cs229.stanford.edu/proj2012/ShenJiangZhang-StockMarketForecastingusingMachineLearningAlgorithms.pdf
+* Global market approach for indeces: http://cs229.stanford.edu/proj2012/ShenJiangZhang-StockMarketForecastingusingMachineLearningAlgorithms.pdf
 * https://pdfs.semanticscholar.org/4ecc/55e1c3ff1cee41f21e5b0a3b22c58d04c9d6.pdf
+* NIKEI prediction with technical features, 0.8 ACC, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4873195/#pone.0155133.ref010 
 
 Trading tutorials
 * https://www.toptal.com/machine-learning/s-p-500-automated-trading
